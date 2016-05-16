@@ -9,3 +9,4 @@
 #export decode_cmd="queue.pl -q all.q@a*.clsp.jhu.edu"
 export train_cmd=run.pl
 export decode_cmd=run.pl
+export cuda_cmd=run.pl

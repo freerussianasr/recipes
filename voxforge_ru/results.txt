@@ -1,0 +1,34 @@
+exp/tri1/decode/wer_11
+%WER 24.12 [ 833 / 3454, 190 ins, 135 del, 508 sub ]
+exp/tri2a/decode/wer_13
+%WER 23.22 [ 802 / 3454, 157 ins, 159 del, 486 sub ]
+exp/tri2b/decode/wer_15
+%WER 21.77 [ 752 / 3454, 123 ins, 149 del, 480 sub ]
+exp/tri2b_mmi/decode_it3/wer_11
+%WER 20.21 [ 698 / 3454, 133 ins, 134 del, 431 sub ]
+exp/tri2b_mmi/decode_it4/wer_12
+%WER 20.56 [ 710 / 3454, 113 ins, 161 del, 436 sub ]
+exp/tri2b_mmi_b0.05/decode_it3/wer_12
+%WER 20.06 [ 693 / 3454, 120 ins, 156 del, 417 sub ]
+exp/tri2b_mmi_b0.05/decode_it4/wer_13
+%WER 20.38 [ 704 / 3454, 109 ins, 180 del, 415 sub ]
+exp/tri2b_mpe/decode_it3/wer_11
+%WER 19.80 [ 684 / 3454, 149 ins, 100 del, 435 sub ]
+exp/tri2b_mpe/decode_it4/wer_12
+%WER 19.75 [ 682 / 3454, 127 ins, 121 del, 434 sub ]
+exp/tri3b/decode/wer_18
+%WER 17.05 [ 589 / 3454, 148 ins, 118 del, 323 sub ]
+exp/tri3b/decode.si/wer_13
+%WER 31.30 [ 1081 / 3454, 249 ins, 170 del, 662 sub ]
+exp/tri3b_mmi/decode/wer_15
+%WER 16.04 [ 554 / 3454, 139 ins, 107 del, 308 sub ]
+exp/tri3b_mmi/decode.si/wer_13
+%WER 31.30 [ 1081 / 3454, 249 ins, 170 del, 662 sub ]
+exp/tri3b_mmi/decode2/wer_13
+%WER 15.03 [ 519 / 3454, 117 ins, 109 del, 293 sub ]
+exp/dnn5b_pretrain-dbn_dnn/decode/wer_13
+%WER 11.96 [ 413 / 3454, 111 ins, 98 del, 204 sub ]
+exp/dnn5b_pretrain-dbn_dnn_smbr/decode_test/wer_13
+%WER 11.46 [ 396 / 3454, 118 ins, 77 del, 201 sub ]
+exp/dnn5b_pretrain-dbn_dnn_smbr_i1lats/decode_test/wer_13
+%WER 11.23 [ 388 / 3454, 113 ins, 69 del, 206 sub ]
