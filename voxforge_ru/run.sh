@@ -180,3 +180,5 @@ steps/decode_fmllr.sh --config conf/decode.config --nj $njobs --cmd "$decode_cmd
 # Do a decoding that uses the exp/tri3b/decode directory to get transforms from
 steps/decode.sh --config conf/decode.config --nj $njobs --cmd "$decode_cmd" \
   --transform-dir exp/tri3b/decode  exp/tri3b/graph data/test exp/tri3b_mmi/decode2 || exit 1;
+
+local/nnet/run_dnn.sh
